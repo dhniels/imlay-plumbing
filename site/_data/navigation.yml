@@ -1,0 +1,15 @@
+logo_image: /uploads/logo-plumbing-wide-transparent-alt.png
+menu__settings:
+  menu__items:
+    - title: Home
+      url: /
+    - title: Projects
+      url: /projects/
+    - title: Blog
+      url: /blog/
+    - title: Pages
+      submenu:
+        - url: /about/
+          title: About
+        - url: /elements/
+          title: Elements
