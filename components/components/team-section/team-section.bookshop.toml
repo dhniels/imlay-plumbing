@@ -2,7 +2,7 @@
 structures = [ "content_blocks" ]
 label = "Team"
 description = "Team Section with heading, a description and a link"
-icon = "peopleoutline"
+icon = "wysiwyg"
 tags = ["Content"]
 
 [props]
