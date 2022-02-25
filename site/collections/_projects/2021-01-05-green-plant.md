@@ -1,15 +1,37 @@
 ---
-date: 2021-01-05 05:20:35 +0300
-title: Green Plant
-subtitle: Photography
-image: '/images/project-9.jpg'
+date: 2021-01-05 02:20:35
+title: General Plumbing
+subtitle: >-
+  We repair and replace faucets, toilets, fixtures, and other plumbing fixtures.
+  We can find and repair leaks, slow drains, and other general plumbing issues!
+image: /images/project-7.jpg
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
-![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
+# General Plumbing Services
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+Imlay Plumbing takes an exacting approach for perfection. Not all plumbing companies can guarantee quality results. Our plumbers will go the extra mile to fix any plumbing problem so you can enjoy your home again. From installing faucets and fixtures, repairing sump pumps, running gas lines, to fixing leaks; our plumbers are equipped with the tools, training, and backed by a full-time parts & warehouse crew so the job gets done efficiently and with excellence.
 
-![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
+![](/uploads/general-plumbing.jpg){: width="1200" height="800"}
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+## Benefits
+
+&nbsp;
+
+Choosing Imlay Plumbing means we back our work. Our motto is “Quality Service Guaranteed\!” If you are not happy with the results, we will come back and ensure you feel confident about the results. We also offer a 1-year guarantee on our work, so you can rest easy knowing that the job is done right the first time\!
+
+**Examples of services we can perform:**
+
+&nbsp;
+
+* Repair and install plumbing fixtures
+* Repair/replace leaky water & drain pipes
+* Clean plugged & slow draining pipes
+* Water softeners & conditioners
+* Locate and repair gas leaks
+* Replace garden hose bibbs
+* Diagnose, repair, and replace water heaters
+* Diagnose, repair, and install sump pumps
+* Service and repair well water systems
+* Toilet & urinal installation and repair
+* After-hours, weekend, holiday emergencies
+* Reverse osmosis drinking water systems
