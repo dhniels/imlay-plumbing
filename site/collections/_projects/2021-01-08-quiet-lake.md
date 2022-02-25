@@ -1,15 +1,48 @@
 ---
-date: 2021-01-08 06:20:35 +0300
-title: Quiet Lake
-subtitle: Photography
-image: '/images/project-7.jpg'
+date: 2021-01-08 03:20:35
+title: Water Heating
+subtitle: We install and service both tank and tankless heating systems
+image: /uploads/water-heating.jpg
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
-![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
+# Water Heating
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+Who doesn’t love hot water? Whether its a hot shower, washing dishes, a gentle car wash, or taking a hot bath at the end of a long day, we have solutions to make sure the system is properly planned for the demand you place on it. Our plumbers will consult to ensure you get the proper sized system so the hot water doesn’t run out when family and friends come visit.
 
-![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
+Running out of hot water in the middle of a shower isn’t always fun. We can troubleshoot your old water heater and make an honest suggestion on whether replacement or repair is the best path forward. We will also flush and service your water heater to prolong its life. We aim to take care of our customers demands for hot water and ensure it never runs out.
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+&nbsp;
+
+## Tank vs Tankless Water Heaters
+
+**Tank Water Heaters**
+
+Tanked water heaters tend to cost quite a bit less, require little to no maintenance, and are usually cheaper and easier to repair. They also fit with most existing houses’ venting. Tankless units require special venting that adds additional cost to run on top of the unit itself which costs around twice as much. Additionally, tankless heaters can struggle when many fixtures are run at once since they can only produce so much hot water at a time.
+
+* Cheap up front cost, high compatibility
+* Little to no maintenance, easy repairs
+* Low instantaneous power requirement
+* Better at handling simultaneous usage
+
+![](/uploads/water-heating-3.jpeg){: width="1440" height="1920"}
+
+**Tankless Water Heaters**
+
+However, converting your water heater to a tankless model is a valuable upgrade for any home. These units last longer, use less energy, offer endless hot water and&nbsp;*can*&nbsp;reduce utility bills.&nbsp;
+
+While tankless water heaters are the new trend right now, we still recommend traditional tank water heaters in most cases.
+
+Tankless heaters can have many advantages for the right household. We will happily come consult with you and make the recommendation that fits your unique situation best.
+
+* Heats only when needed, saving energy
+* Can last up to 20 years with regular service
+* Takes up less space
+* Hot water doesn't ever run out
+
+![](/uploads/water-heating-2.jpg){: width="768" height="768"}
+
+### Boilers & Radiant Heat Systems
+
+Imlay Plumbing can perform basic services for boiler and radiant heat systems. For more advanced troubleshooting, give us a call and we can happily refer someone who specializes in these systems.
+
+![](/uploads/water-heating-1.jpeg){: width="1200" height="900"}
