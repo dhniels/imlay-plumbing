@@ -1,7 +1,7 @@
 [component]
 structures = [ "content_blocks" ]
 label = "Posts List"
-description = "Lists all of the site's blog posts"
+description = "Lists all of the site's news posts"
 icon = "wysiwyg"
 tags = ["Collections"]
 

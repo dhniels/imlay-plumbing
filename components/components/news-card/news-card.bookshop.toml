@@ -1,7 +1,7 @@
 [component]
 structures = []
-label = "Blog Card"
-description = "Blog card used for post lists"
+label = "News Card"
+description = "News card used for post lists"
 icon = "wysiwyg"
 tags = []
 
