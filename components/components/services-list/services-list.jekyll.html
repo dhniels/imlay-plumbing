@@ -1,8 +1,8 @@
-{% if include.show_projects %}
+{% if include.show_services %}
 <div class="container animate">
   <div class="row">
-    {% for project in site.projects %}
-      {% bookshop project-card project=project %}
+    {% for service in site.services %}
+      {% bookshop service-card service=service %}
     {% endfor %}
   </div>
 </div>
