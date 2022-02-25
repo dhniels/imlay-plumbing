@@ -1,7 +1,7 @@
 ---
 date: 2021-01-08 03:20:35
 title: Water Heating
-subtitle: We install and service both tank and tankless heating systems
+subtitle: We install and service both tank and tankless heating systems.
 image: /uploads/water-heating.jpg
 ---
 
@@ -10,8 +10,6 @@ image: /uploads/water-heating.jpg
 Who doesn’t love hot water? Whether its a hot shower, washing dishes, a gentle car wash, or taking a hot bath at the end of a long day, we have solutions to make sure the system is properly planned for the demand you place on it. Our plumbers will consult to ensure you get the proper sized system so the hot water doesn’t run out when family and friends come visit.
 
 Running out of hot water in the middle of a shower isn’t always fun. We can troubleshoot your old water heater and make an honest suggestion on whether replacement or repair is the best path forward. We will also flush and service your water heater to prolong its life. We aim to take care of our customers demands for hot water and ensure it never runs out.
-
-&nbsp;
 
 ## Tank vs Tankless Water Heaters
 
@@ -28,7 +26,7 @@ Tanked water heaters tend to cost quite a bit less, require little to no mainten
 
 **Tankless Water Heaters**
 
-However, converting your water heater to a tankless model is a valuable upgrade for any home. These units last longer, use less energy, offer endless hot water and&nbsp;*can*&nbsp;reduce utility bills.&nbsp;
+However, converting your water heater to a tankless model is a valuable upgrade for any home. These units last longer, use less energy, offer endless hot water and *can* reduce utility bills.
 
 While tankless water heaters are the new trend right now, we still recommend traditional tank water heaters in most cases.
 
