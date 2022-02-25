@@ -121,6 +121,7 @@
 
           &:hover {
             background-color: inherit;
+            color: inherit;
           }
 
           .arrow-down {
@@ -292,6 +293,8 @@
       will-change: transform;
 
       &:hover {
+        // background: linear-gradient(90deg,#1495a7 0,#003687 167%);
+        color: rgba(20,149,167);
         background-color: rgba($primary-color, 0.1);
       }
 
