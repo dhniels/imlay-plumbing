@@ -1,7 +1,7 @@
 [component]
 structures = []
-label = "Project Card"
-description = "Project card used for project lists"
+label = "Service Card"
+description = "Service card used for service lists"
 icon = "wysiwyg"
 tags = []
 
