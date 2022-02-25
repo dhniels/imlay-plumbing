@@ -23,3 +23,5 @@ menu__settings:
       url: /news/
     - title: Contact
       url: /contact/
+    - title: About
+      url: /about/
