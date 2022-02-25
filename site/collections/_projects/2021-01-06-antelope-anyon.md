@@ -1,7 +1,7 @@
 ---
 date: 2021-01-06 02:20:35
 title: Water Softening & Treatment
-subtitle: We install softeners, filters, RO, and other water treatment systems
+subtitle: We install softeners, filters, RO, and other water treatment systems.
 image: /uploads/water-softening.jpg
 ---
 
@@ -28,8 +28,6 @@ For homes not plumbed for soft water, we can install Nuvo H20 systems to help tr
 **Reverse Osmosis (RO) Purified Water**
 
 Additionally, a Reverse Osmosis (RO) system using a series of filters reduces many microscopic impurities and chemical elements. It is also the only type of drinking water treatment that fully removes fluoride from the water.
-
-&nbsp;
 
 * Cleaner sinks, bathtubs, fixtures and tile
 * Cleaner, brighter laundry
