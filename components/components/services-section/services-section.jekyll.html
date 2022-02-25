@@ -1,5 +1,5 @@
-<!-- begin projects -->
-<section class="section projects" id="projects">
+<!-- begin services -->
+<section class="section services" id="services">
   <div class="container">
     <div class="row">
       <div class="col col-12">
@@ -13,11 +13,11 @@
             <div class="section__description">{{ include.description_html }}</div>
           </div>
 
-          {% if include.show_projects %}
+          {% if include.show_services %}
           <div class="row">
-            {% for project in site.projects %}
+            {% for service in site.services %}
               {% if forloop.index <= 6 %}
-                {% bookshop project-card project=project %}
+                {% bookshop service-card service=service %}
               {% endif %}
             {% endfor %}
           </div>
@@ -28,4 +28,4 @@
     </div>
   </div>
 </section>
-<!-- end projects -->
+<!-- end services -->
