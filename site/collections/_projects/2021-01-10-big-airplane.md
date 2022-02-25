@@ -1,16 +1,29 @@
 ---
-date: 2021-01-10 07:30:35 +0300
-title: Big airplane
-subtitle: Photography
-image: '/images/project-5.jpg'
+date: 2021-01-10 04:30:35
+title: Plumbing Design
+subtitle: Let us help design your plumbing system on new construction and remodels.
+image: /uploads/plumbing-design.jpg
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+# Plumbing Design
 
-![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
+Imlay Plumbing is available to plan and build your project, whether it is residential or commercial. New construction, remodels, demolition, excavation, you name it. We aim to do everything in house so you have a one-stop shop to rely on when scheduling out your subcontractors for any project. Save a bunch of scheduling headache by having our crews meet your goals and timelines.
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+![](/uploads/plumbing-design-1.jpg){: width="1920" height="1280"}
 
-![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
+&nbsp;
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+## Imlay Plumbing, Excavation, and Blackstar Works
+
+We are currently working toward offering an in-house solution for any construction from start to finish. From a general contractor, excavation crew, plumbing, electrical, and beyond…our goal is to save our clients time and money by having the ability to handle everything under one roof. We will provide a truly one-of-a-kind solution for Cedar City and Iron County as a whole. Our competition simply can’t offer the same level of services.
+
+&nbsp;
+
+* New & existing construction
+* Remodels and unfinished basements
+* Commercial projects
+* Residential projects
+* Excavation and dirt work
+* Digging footings, crawl spaces, etc.
+* Ground rough, rough ins, and set finish
+* General Contracting - coming soon\!
