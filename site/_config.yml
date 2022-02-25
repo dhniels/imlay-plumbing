@@ -40,7 +40,7 @@ collections:
     output: false
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /news/:slug
 
 cloudcannon:
   collections:
@@ -68,7 +68,7 @@ _collection_groups:
       - services
       - testimonials
       - team
-  - heading: Blogging
+  - heading: News
     collections:
       - posts
       - drafts
