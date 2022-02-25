@@ -4,12 +4,22 @@ menu__settings:
     - title: Home
       url: /
     - title: Services
-      url: /services/
-    - title: Blog
-      url: /blog/
-    - title: Pages
       submenu:
-        - url: /about/
-          title: About
-        - url: /elements/
-          title: Elements
+        - url: /services/
+          title: All Services
+        - url: /service/general-plumbing/
+          title: General Plumbing
+        - url: /service/water-softening-treatment/
+          title: Water Softening & Treatment
+        - url: service/water-heating/
+          title: Water Heating
+        - url: /service/drain-cleaning-inspection/
+          title: Drain Cleaning & Inspection
+        - url: /service/plumbing-design/
+          title: Plumbing Design
+        - url: /service/sewer-line-replacement/
+          title: Sewer Line Replacement
+    - title: News
+      url: /news/
+    - title: Contact
+      url: /contact/
