@@ -2,8 +2,8 @@ footer_menu__settings:
   menu__items:
     - title: Home
       url: /
-    - title: Projects
-      url: /projects/
+    - title: Services
+      url: /services/
     - title: Elements
       url: /elements/
     - title: About
