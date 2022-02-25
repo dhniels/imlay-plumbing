@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function () {
   ============================ */
   if (document.querySelector(".testimonials__slider")) {
     var slider = tns({
-      container: ".testimonials__slider",
+      container: ".my-slider",
       items: 3,
       slideBy: 1,
       gutter: 20,
@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
 ============================ */
 if (document.querySelector(".team__slider")) {
   var slider = tns({
-    container: ".team__slider",
+    container: ".my-slider",
     items: 3,
     slideBy: 1,
     gutter: 20,
