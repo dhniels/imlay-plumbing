@@ -4,7 +4,7 @@ title: General Plumbing
 subtitle: >-
   We repair and replace faucets, toilets, fixtures, and other plumbing fixtures.
   We can find and repair leaks, slow drains, and other general plumbing issues!
-image: /images/project-7.jpg
+image: /uploads/general-plumbing-1.jpg
 ---
 
 # General Plumbing Services
@@ -15,13 +15,9 @@ Imlay Plumbing takes an exacting approach for perfection. Not all plumbing compa
 
 ## Benefits
 
-&nbsp;
-
 Choosing Imlay Plumbing means we back our work. Our motto is “Quality Service Guaranteed\!” If you are not happy with the results, we will come back and ensure you feel confident about the results. We also offer a 1-year guarantee on our work, so you can rest easy knowing that the job is done right the first time\!
 
 **Examples of services we can perform:**
-
-&nbsp;
 
 * Repair and install plumbing fixtures
 * Repair/replace leaky water & drain pipes
