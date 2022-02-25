@@ -31,9 +31,9 @@ collections:
   pages:
     output: true
     permalink: /:title/
-  projects:
+  services:
     output: true
-    permalink: /project/:slug
+    permalink: /service/:slug
   testimonials:
     output: false
   team:
@@ -46,7 +46,7 @@ cloudcannon:
   collections:
     pages:
       _icon: 'wysiwyg'
-    projects:
+    services:
       _icon: 'work_outline'
       _subtext_key: subtitle
     testimonials:
@@ -65,7 +65,7 @@ _collection_groups:
   - heading: Content
     collections:
       - pages
-      - projects
+      - services
       - testimonials
       - team
   - heading: Blogging
@@ -87,9 +87,9 @@ defaults:
     values:
       permalink: /
   - scope:
-      type: projects
+      type: services
     values:
-      layout: project
+      layout: service
   - scope:
       type: posts
     values:
