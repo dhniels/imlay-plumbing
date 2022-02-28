@@ -1,32 +1,23 @@
 <!-- begin team -->
-<section class="section team animate">
+<section class="section team" id="team">
   <div class="container">
     <div class="row">
       <div class="col col-12">
+        <div class="contaniner__inner animate">
 
-        <div class="section__info">
-          <div class="section__head">
-            <h2 class="section__title">{{ include.title }}</h2>
-            <ul class="controls list-reset" id="customize-controls" aria-label="Slider Navigation" tabindex="0">
-              <li class="prev" data-controls="prev" aria-controls="customize" tabindex="-1">
-                <i class="ion ion-ios-arrow-back"></i>
-              </li>
-              <li class="next" data-controls="next" aria-controls="customize" tabindex="-1">
-                <i class="ion ion-ios-arrow-forward"></i>
-              </li>
-            </ul>
+          <div class="section__info">
+            <div class="section__head">
+              <h2 class="section__title">{{ include.title }}</h2>
+              <a class="section__link" href="{{ include.link_url }}">View all <i class="ion ion-md-arrow-forward"></i></a>
+            </div>
+            <div class="section__description">{{ include.description_html }}</div>
           </div>
-          <div class="section__description">{{ include.description_html }}</div>
-        </div>
 
-        {% if include.show_team %}
-        <div class="team__slider my-slider">
-          {% for team-item in site.team %}
-            {% bookshop team-card team-item=team-item %}
-          {% endfor %}
-        </div>
-        {% endif %}
+          <div class="{{c}}__image">
+            <img loading="lazy" src="{{ include.image }}" alt="{{ include.team_image_alt }}">
+          </div>
 
+        </div>
       </div>
     </div>
   </div>

@@ -7,5 +7,8 @@ tags = ["Content"]
 
 [props]
 title = "Team Members"
-description_html= ""
+description_html= "Our team is what sets us apart"
+image = "/images/01.jpg"
+image_alt = "Imlay Plumbing's team photo"
+link_url = "/about#team"
 show_team = true
