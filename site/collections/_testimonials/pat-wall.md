@@ -1,7 +1,7 @@
 ---
 name: Pat Wall
 position:
-image: /uploads/iu-2-copy-2.jpeg
+image: /uploads/customer-woman.jpeg
 blurb: >-
   We had a pipe burst in our wall at 4:45 this morning. I called their number at
   7:30AM, Spencer showed up at 9:30, removed our water heater, diagnosed and
