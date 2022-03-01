@@ -1,7 +1,7 @@
 ---
 name: Lex Nielson
 position: Plumbing Manager
-image: /uploads/imlay-plumbing-10-2021046.jpg
+image: /uploads/team-lex.jpg
 blurb:
 _hide_content: true
 ---
