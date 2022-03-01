@@ -1,7 +1,7 @@
 ---
 name: Kasey Nielson
 position: Billing Manager
-image: /uploads/imlay-plumbing-10-2021095.jpg
+image: /uploads/team-kasey.jpg
 blurb:
 _hide_content: true
 ---
