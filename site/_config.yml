@@ -55,7 +55,7 @@ cloudcannon:
       _enabled_editors:
         - data
     team:
-      _icon: 'format_quote'
+      _icon: 'people_outline'
       _subtext_key: position
       _enabled_editors:
         - data
