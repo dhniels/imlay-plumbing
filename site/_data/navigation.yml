@@ -7,17 +7,17 @@ menu__settings:
       submenu:
         - url: /services/
           title: All Services
-        - url: /service/general-plumbing/
+        - url: /service/general-plumbing
           title: General Plumbing
-        - url: /service/water-softening-treatment/
+        - url: /service/water-softening-treatment
           title: Water Softening & Treatment
-        - url: service/water-heating/
+        - url: service/water-heating
           title: Water Heating
-        - url: /service/drain-cleaning-inspection/
+        - url: /service/drain-cleaning-inspection
           title: Drain Cleaning & Inspection
-        - url: /service/plumbing-design/
+        - url: /service/plumbing-design
           title: Plumbing Design
-        - url: /service/sewer-line-replacement/
+        - url: /service/sewer-line-replacement
           title: Sewer Line Replacement
     - title: News
       url: /news/
