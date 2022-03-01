@@ -1,7 +1,7 @@
 ---
 name: Austin Adams
 position: Plumber
-image: /uploads/imlay-plumbing-10-2021030.jpg
+image: /uploads/team-austin.jpg
 blurb:
 _hide_content: true
 ---
