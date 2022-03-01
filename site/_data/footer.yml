@@ -4,12 +4,12 @@ footer_menu__settings:
       url: /
     - title: Services
       url: /services/
-    - title: Elements
-      url: /elements/
-    - title: About
-      url: /about/
     - title: News
       url: /news/
+    - title: Contact
+      url: /contact/
+    - title: About
+      url: /about/
 copyright_text_html: >-
   <p>2021 &copy; <a href="/">Imlay Plumbing</a>. Template by <a
   href="https://cloudcannon.com/">CloudCannon</a>.</p>
