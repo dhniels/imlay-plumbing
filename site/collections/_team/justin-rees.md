@@ -1,7 +1,7 @@
 ---
 name: Justin Rees
 position: Plumber
-image: /uploads/imlay-plumbing-10-2021017.jpg
+image: /uploads/team-justin.jpg
 blurb:
 _hide_content: true
 ---
