@@ -11,7 +11,7 @@ menu__settings:
           title: General Plumbing
         - url: /service/water-softening-treatment
           title: Water Softening & Treatment
-        - url: service/water-heating
+        - url: /service/water-heating
           title: Water Heating
         - url: /service/drain-cleaning-inspection
           title: Drain Cleaning & Inspection
