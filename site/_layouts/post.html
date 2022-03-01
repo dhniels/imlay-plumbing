@@ -71,6 +71,14 @@ layout: default
 
 {% include related-posts.html %}
 
+{% bookshop
+  contact-form form_title=site.data.form.form_title
+  form_description=site.data.form.form_description
+  form_submission_email=site.data.form.form_submission_email
+  form_button_text=site.data.form.form_button_text
+%}
+
+<!--
 {% if site.data.general_settings.disqus-identifier %}
   {% include disqus-comments.html %}
 {% endif %}
@@ -81,3 +89,4 @@ layout: default
   newsletter_identifier=site.data.newsletter.newsletter_identifier
   newsletter_button=site.data.newsletter.newsletter_button
 %}
+-->
