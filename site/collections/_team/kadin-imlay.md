@@ -1,6 +1,6 @@
 ---
 name: Kadin Imlay
 position: Owner
-image: /uploads/imlay-plumbing-10-2021036.jpg
+image: /uploads/team-kadin.jpg
 blurb:
 ---
