@@ -1,11 +1,12 @@
 ---
 date: 2022-02-25 14:30:00
 title: How a reverse osmosis system works
-description: The science behind a popular solution for filtering drinking water
+description: The science behind a popular solution for filtering drinking water.
 tags:
+  - education
+  - filtered water
 image: /uploads/water-softening-3.jpeg
 ---
-&nbsp;
 
 Reverse osmosis or RO is a filtration method that is used to remove ions and molecules from a solution by applying pressure to the solution on one side of a semipermeable or selective membrane. Large molecules (solute) can't cross the membrane, so they remain on one side. Water (solvent) can cross the membrane. The result is that solute molecules become more concentrated on one side of the membrane, while the opposite side becomes more dilute.
 
@@ -27,4 +28,4 @@ Reverse osmosis is not a new purification technique. The first examples of osmos
 
 Article Source:
 
-Helmenstine, Anne Marie, Ph.D. "How Reverse Osmosis Works." ThoughtCo, Aug. 27, 2020, thoughtco.com/reverse-osmosis-overview-609400.
+Helmenstine, Anne Marie, Ph.D. "How Reverse Osmosis Works." ThoughtCo, Aug. 27, 2020, thoughtco.com/reverse-osmosis-overview-609400
