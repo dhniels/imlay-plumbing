@@ -30,7 +30,7 @@ Benefits of a new PVC plastic sewer line
 * Low cost & long service life
 * Highly resistant to root intrusion
 
-[![Why to use quality pipes.](https://img.youtube.com/vi/Sw7T28dCin0/maxresdefault.jpg)](https://youtu.be/Sw7T28dCin0 "Why to use quality pipes.")
+[![Why to use quality pipes.](/uploads/sewer-replacement-thumbnail.jpeg)](https://youtu.be/Sw7T28dCin0 "Why to use quality pipes.")
 
 This video illustrates the different strengths of commonly used PVC thicknesses for wastewater drainage. We believe this illustrates perfectly why we avoid using the commonly used SDR/thin wall pipes used in so many new homes today. Schedule 40 PVC is the pipe on the right, and is what we use.
 
