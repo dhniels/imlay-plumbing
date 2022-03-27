@@ -130,4 +130,20 @@
 		opacity: 0;
 		transition: transform .4s cubic-bezier(.165,.85,.45,1),opacity .4s cubic-bezier(.165,.85,.45,1);
 	}
+	
+	/* Make service tiles show titles on touch devices */
+	@media (hover: none) {
+		#{$c}__title, #{$c}__subtitle {
+			opacity: 1;
+			transform: translateZ(0);
+			transition: transform .4s cubic-bezier(.165,.85,.45,1) .2s,opacity .4s cubic-bezier(.165,.85,.45,1) .2s;
+		}
+		&__image {
+			&::before {
+				opacity: 1;
+				visibility: visible;
+				background: linear-gradient(360deg, $primary-color 0%, rgba($secondary-color, 0.1) 75%);
+			}
+		}
+	}
 }
