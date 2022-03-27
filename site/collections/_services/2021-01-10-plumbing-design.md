@@ -1,15 +1,15 @@
 ---
 date: 2021-01-10 04:30:35
 title: Plumbing Design
-subtitle: Let us help design your plumbing system on new construction and remodels.
-image: /uploads/plumbing-design.jpg
+subtitle: New construction, remodels, gas lines, and excavation are all within our expertise. We also offer free estimates!
+image: /uploads/plumbing-design-1.jpg
 ---
 
 # Plumbing Design
 
 Imlay Plumbing is available to plan and build your project, whether it is residential or commercial. New construction, remodels, demolition, excavation, you name it. We aim to do everything in house so you have a one-stop shop to rely on when scheduling out your subcontractors for any project. Save a bunch of scheduling headache by having our crews meet your goals and timelines.
 
-![](/uploads/plumbing-design-1.jpg){: width="1920" height="1280"}
+![](/uploads/plumbing-design.jpg){: width="1920" height="1280"}
 
 &nbsp;
 
