@@ -4,7 +4,7 @@ title: How a reverse osmosis system works
 description: The science behind a popular solution for filtering drinking water.
 tags:
   - education
-  - filtered water
+  - treatment
 image: /uploads/water-softening-3.jpeg
 ---
 

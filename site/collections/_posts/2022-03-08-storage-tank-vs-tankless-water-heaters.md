@@ -6,7 +6,7 @@ description: >-
   but is going tankless the correct choice for your situation?
 tags:
   - education
-  - hot water
+  - treatment
 image: /uploads/water-heating-2.jpg
 ---
 

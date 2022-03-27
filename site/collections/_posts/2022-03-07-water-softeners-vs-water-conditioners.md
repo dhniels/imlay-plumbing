@@ -6,7 +6,7 @@ description: >-
   compared to new salt-free systems like Nuvo Home.
 tags:
   - education
-  - soft water
+  - treatment
 image: /uploads/water-softening-2.png
 ---
 

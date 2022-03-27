@@ -9,7 +9,7 @@ image: /uploads/drain-cleaning.jpeg
 
 # Drain Cleaning & Inspection
 
-If you have a slow or plugged drain, we are here to help. We understand the frustration of not being able to use your plumbing systems and the mess created when you have a backup. Our plumbers are provided with a wide assortment of tools and equipment to get your sewer flowing agin and can also provide a camera inspection to identify problems with the drain pipes. We can diagnose, clean, and repair, depending on your unique situation.
+If you have a slow or plugged drain, we are here to help. We understand the frustration of not being able to use your plumbing systems and the mess created when you have a backup. Our plumbers are provided with a wide assortment of tools and equipment to get your sewer flowing again and can also provide a camera inspection to identify problems with the drain pipes. We can diagnose, clean, and repair, depending on your unique situation.
 
 &nbsp;
 
